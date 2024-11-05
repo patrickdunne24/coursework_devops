@@ -6,7 +6,7 @@ public static int Arg1;
     public static void main(String args[])    {
 
 	if (args.length == 0) {
-            System.out.println("Error: No input provided. Please provide an integer input.");
+            System.out.println("Error: No input provided Please provide an integer input.");
             return;
         }
 
